@@ -1,0 +1,5 @@
+Variables son valores que se guardan bajo un mismo simbolo y los podemos utilizar cada vez que queramos llevar a cabo una operación Matemática. 
+Strings: Son basicamente palbaras que tambien se almacenan en un mismo simbolo.
+Funciones son procediminetos repetitivos que se pueden almacenar para utilizarlos varias veces.
+Declaraciones IF, estos también son procedimientos automaticos que nos devuelven un resultado si se cumple una condición.
+Valores booleanos: Estos procedimientos verifican si una variable u objeto es verdadero o falso para llevar a cabo otro tipo de operaciones.
