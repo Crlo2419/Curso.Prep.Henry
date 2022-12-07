@@ -140,7 +140,7 @@ function operadoresLogicos(num1, num2, num3) {
     return "Número 1 es mayor y positivo";
   }
   else if ( num3 > num1 && num3 > num2){
-    return num3 + 1 ;
+    return num3 + 2 ;
   }
   else {
     return false ;
