@@ -1,0 +1,5 @@
+For es una indicación que se le hace al sistema para que repita una acción varias veces siempre y cuanod se cumpla una condicoón
+&& es el simbolo que le indica al sistema que se tienen que dar dos condiciones al mismo timpo
+|| este simbolo representa o lo cual quiere decir que va a ser verdadero si se cumple una condición de 2 disponbles.
+! es el operador o indicador de negación, quiere deci no.
+Quiero probar que tenga en cuenta los cambios y modificaciones
